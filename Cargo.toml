@@ -1,0 +1,3 @@
+[workspace]
+members = ["gc", "dbg_runner"]
+resolver = "2"
